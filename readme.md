@@ -3,6 +3,9 @@
 This simple repo shows how to create a MEAN stack single page 
 application using Angular 7 on the frontend , Express framework and Nodejs on the backend and MongoDB as our database. We use Mongo on the cloud. Basically a user can register/login and taken to the dashboard which is a protected route.
 
+## Live Application Link
+[Heroku link](https://stormy-earth-31861.herokuapp.com/)
+
 ## Installation
 * Clone the folder using **git clone**.
 * **cd** into the Angular-5-CRUD-app.
