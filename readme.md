@@ -1,7 +1,7 @@
 #  MEAN stack application in Mongo , Express, Angular and Node
 
 This simple repo shows how to create a MEAN stack single page 
-application using Angular on the frontend , Express framework and Nodejs on the backend API and MongoDB on the cloud as our database. Basically a user can register/login and taken to the dashboard which is a protected route.
+application using Angular on the frontend , Express framework and Nodejs on the backend API and MongoDB on the cloud as our database. Basically a user can register/login and taken to the dashboard which is a protected route.We use bootstrap 4 as our CSS framework.
 
 ## Live Application Link
 [Heroku link](https://stormy-earth-31861.herokuapp.com/)
